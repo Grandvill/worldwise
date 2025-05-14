@@ -7,7 +7,7 @@ export default function Product() {
       <PageNav />
 
       <section>
-        <img src="img-1.jpg" alt="person with dog overlooking mountain with sunset" />
+        <img src="images/img-1.jpg" alt="person with dog overlooking mountain with sunset" />
         <div>
           <h2>About WorldWide.</h2>
           <p>
@@ -20,8 +20,8 @@ export default function Product() {
           </p>
           <p>We believe that every journey holds a unique story. With WordWise, you don't just travel—you leave behind a trace that can be remembered and shared.</p>
         </div>
-        <video src="nature.mp4" controls></video>
-        <audio src="ncs-on&on.mp3" controls></audio>
+        <video src="video/nature.mp4" controls></video>
+        <audio src="audio/ncs-on&on.mp3" controls></audio>
       </section>
     </main>
   );
